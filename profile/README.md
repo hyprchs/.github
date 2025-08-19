@@ -1,6 +1,6 @@
-# Welcome to the future of chess education.
+# Welcome to Hyperchess 👋
 
-Meet your new AI chess coach at [Hyperchess.ai](https://hyperchess.ai).
+The future of chess education. Meet your AI chess coach at [Hyperchess.ai](https://hyperchess.ai).
 
 <!--
 
