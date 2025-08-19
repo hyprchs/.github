@@ -1,8 +1,6 @@
-## Welcome to Hyprchs 👋
+# Welcome to the future of chess education.
 
-https://hyprchs.com
-
-[Join on discord](https://discord.gg/eGNXw72EEF)
+Meet your new AI chess coach at [Hyperchess.ai](https://hyperchess.ai).
 
 <!--
 
